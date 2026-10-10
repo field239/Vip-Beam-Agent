@@ -1,0 +1,6 @@
+method,model,run,best_feasible_mass,width,height,defl_margin,stress_margin,beam_evals,invalid_replies,time_s
+ai_agent,gpt-4o-mini,1,27.475,50.0,70.0,0.2711,0.4898,11,1,6.488
+ai_agent,gpt-4o-mini,2,27.475,50.0,70.0,0.2711,0.4898,10,2,6.654
+ai_agent,llama3.2:1b,1,31.4,50.0,80.0,0.5117,0.6094,12,0,1.38
+ai_agent,llama3.2:1b,2,31.4,50.0,80.0,0.5117,0.6094,12,0,1.113
+scipy_slsqp,n/a,1,13.423,20.0,85.49879733383531,0.0,0.145,140,0,0.003
